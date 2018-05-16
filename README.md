@@ -29,3 +29,13 @@ Press `Ctrl+Shift+P` to bring up the Command Palette then start typing "config" 
 
 ### configure Pycharm   
 username:`yaakovazat`   
+
+### config SSH key
+
+create a new ssh key: `ssh-keygen -t rsa -b 4096 -C "yaakovazat@gmail.com"`
+
+add SSH key to ssh agent: `ssh-add ~/.ssh/id_rsa`
+
+clip the SSH key to the clipboard: `clip < ~/.ssh/id_rsa.pub`
+
+
