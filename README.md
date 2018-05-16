@@ -38,4 +38,4 @@ add SSH key to ssh agent: `ssh-add ~/.ssh/id_rsa`
 
 clip the SSH key to the clipboard: `clip < ~/.ssh/id_rsa.pub`
 
-
+test the GitHub SSH key: `ssh -T git@github.com`
