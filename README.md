@@ -7,6 +7,7 @@
 3. Sougou Pinyin input for Chinese lang `sogou_pinyin_90a`
 4. PyCharm Professional 
 
+## `chrome://net-internals/`
 
 ## Some important staff to figure:
 
